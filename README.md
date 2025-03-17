@@ -1,1 +1,1 @@
-# my-storage
+# PC's SunnyRainy Indicator
